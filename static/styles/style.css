@@ -390,7 +390,7 @@ table {
     cursor: pointer;
 }
 
-.alert {
+.alerta {
     --bs-alert-bg: transparent;
     --bs-alert-padding-x: 1rem;
     --bs-alert-padding-y: 1rem;
@@ -408,7 +408,7 @@ table {
     border-radius: var(--bs-alert-border-radius);
 }
 
-.alert-primary {
+.alerta-primary {
     --bs-alert-color: #084298;
     --bs-alert-bg: #cfe2ff;
     --bs-alert-border-color: #b6d4fe;
